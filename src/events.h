@@ -1,0 +1,4 @@
+ namespace events
+{
+    void eventSpooler();
+}
